@@ -39,21 +39,15 @@ sudo apt-get install mysql-server mysql-client
 
 우분투 버전에 따라 php 버전도 달라지는데, 본인은 우분투 20.10을 사용하고 있으므로 php7.4를 설치해야 한다. 
 
+끝부분에 php-mysql은 php와 mysql을 연동하라는 명령어이다.
+
 <pre>
 <code>
 sudo apt install php libapache2-mod-php php-mysql
 </code>
 </pre>
 
-0-5. php와 mysql 연동모듈을 설치한다
-
-<pre>
-<code>
-sudo apt-get install php-mysql
-</code>
-</pre>
-
-0-6. Apache 재시작
+0-5. Apache 재시작
 
 <pre>
 <code>
