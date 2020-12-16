@@ -55,12 +55,25 @@ sudo /etc/init.d/apache2 restart
 </code>
 </pre>
 
+0-6. 잘 실행되었는지 확인하기
+
+우분투환경의 Firefox 에서 웹주소 란에 localhost를 입력한다.
+
+Apache2 Ubuntu Default Page가 뜨면서 It works!라는 문구를 보았다면, 잘 설치된 것이다. 
+
+
 ### 1. SQL실행하기 
 
-1-1. 앞서 설치해놓은 mysql server에 접근한다
+1-1. 비밀번호를 설정한다. 
+
+나같은 경우, 처음 sql server을 생성할 때 root의 비밀번호를 생성하라는 메세지창이 안떴다.. 그래서 계속 접근하는데 오류가 생겼다.
+
+이러한 경우, 아래와 같은 명령어를 입력하여 비밀번호 및 접근 권한을 설정할 수 있다. 
 
 <pre>
 <code>
-sudo mysql -u root -p
+sudo mysql_secure_installation
 </code>
 </pre>
+
+계속 질문같은게 뜨는데, 다 y 누르면서 진행하면 된다. 
