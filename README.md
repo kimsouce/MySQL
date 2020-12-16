@@ -63,3 +63,10 @@ sudo /etc/init.d/apache2 restart
 
 ### 1. SQL실행하기 
 
+1-1. 앞서 설치해놓은 mysql server에 접근한다
+
+<pre>
+<code>
+sudo mysql -u root -p
+</code>
+</pre>
