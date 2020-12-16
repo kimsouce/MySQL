@@ -17,7 +17,9 @@ sudo apt-get update && sudo apt-get upgrade
 
 굳이 해준 이유는 apache2를 install 하려고보니, 해당 패키지가 없다고 나오기 때문이다.. 
 
-이러한 문제점에 당면했을 때 위의 명령어를 입력하면 된다. (그렇지 않으면 바로 install 해도 된다.) 업데이트 완료 후, apache2를 설치한다.
+이러한 문제점에 당면했을 때 위의 명령어를 입력하면 된다. (그렇지 않으면 바로 install 해도 된다.) 
+
+업데이트 완료 후, apache2를 설치한다.
 <pre>
 <code>
 sudo apt-get install apache2
