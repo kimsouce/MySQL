@@ -45,6 +45,20 @@ sudo apt install php libapache2-mod-php php-mysql
 </code>
 </pre>
 
+0-5. php와 mysql 연동모듈을 설치한다
 
+<pre>
+<code>
+sudo apt-get install php-mysql
+</code>
+</pre>
+
+0-6. Apache 재시작
+
+<pre>
+<code>
+sudo /etc/init.d/apache2 restart
+</code>
+</pre>
 
 
