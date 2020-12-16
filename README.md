@@ -6,7 +6,7 @@
 
 ### 0. 환경설정 (전부 콘솔창에서)
 
-먼저 Oracle VM VIrtualBox와 Ubuntu를 설치한다. (VMDK, 동적할당, 설정>저장소>다운받은 iso파일로 지정)
+먼저 [Oracle VM VIrtualBox](https://www.virtualbox.org/wiki/Downloads)와 [Ubuntu](https://ubuntu.com/download/desktop)를 설치한다. (VMDK, 동적할당, 설정>저장소>다운받은 iso파일로 지정)
 
 다음으로 패키지를 업데이트 해준다. 꽤 오래걸린다.
 <pre>
