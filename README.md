@@ -61,4 +61,6 @@ sudo /etc/init.d/apache2 restart
 </code>
 </pre>
 
+### 1. SQL실행하기 
 
+순서가 잘못된 것 같기도 한데.. [MySQL](https://dev.mysql.com/downloads/file/?id=499590)을 다운받고, sql의 비밀번호를 설정해준다. 
