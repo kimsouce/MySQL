@@ -35,7 +35,15 @@ sudo apt-get install mysql-server mysql-client
 </code>
 </pre>
 
+0-4. php를 설치한다. 
 
+우분투 버전에 따라 php 버전도 달라지는데, 본인은 우분투 20.10을 사용하고 있으므로 php7.4를 설치해야 한다. 
+
+<pre>
+<code>
+sudo apt install php libapache2-mod-php php-mysql
+</code>
+</pre>
 
 
 
