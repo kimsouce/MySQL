@@ -7,11 +7,6 @@ Write a query to find the maximum total earnings for all employees as well as th
 Then print these values as  space-separated integers.
 */
 
-/*
-1. salary * month = earnings
-2. 각 earnings별 몇명이 그만큼 벌었는지 계산 -- GROUP BY
-3. earnings 중 가장 큰 값을 가져온다 -- ORDER BY, LIMIT
-*/
 
 SELECT salary * months AS earnings 
     ,COUNT(*)
@@ -19,3 +14,9 @@ FROM employee
 GROUP BY earnings
 ORDER BY earnings DESC 
 LIMIT 1;
+
+/*
+1. salary * month = earnings
+2. 각 earnings별 몇명이 그만큼 벌었는지 계산 -- GROUP BY
+3. earnings 중 가장 큰 값을 가져온다 -- ORDER BY, LIMIT
+*/
