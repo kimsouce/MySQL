@@ -6,4 +6,6 @@
 
 #### ⛵Site : 프로그래머스 https://programmers.co.kr/learn/challenges?tab=sql_practice_kit (SQL 고득점 키트)             
 
-
+|날짜|학습 내용|맞은 개수|비고|
+|--------|-------|---------|---------|
+|1226|SELECT|7/7|| 
