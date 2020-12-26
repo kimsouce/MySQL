@@ -4,9 +4,9 @@
 
 #### 💻 Reference : 인프런 '백문이 불여일타 - 데이터 분석을 위한 SQL'
 
-#### ⛵Site : 프로그래머스 https://programmers.co.kr/learn/challenges?tab=sql_practice_kit (SQL 고득점 키트)       
+#### ⛵ Site : 프로그래머스 https://programmers.co.kr/learn/challenges?tab=sql_practice_kit (SQL 고득점 키트)       
 
-#### 🧵explanation: MY Blog!! https://blog.naver.com/ksy_59
+#### 🧵 Explanation: MY Blog!! https://blog.naver.com/ksy_59
 
 |날짜|학습 내용|맞은 개수|틀린문제|비고|
 |--------|-------|---------|---------|----------------|
