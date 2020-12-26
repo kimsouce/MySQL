@@ -1,3 +1,5 @@
+/*CASE문 관련 문제*/
+
 /*
 문제:
 Table: Department
