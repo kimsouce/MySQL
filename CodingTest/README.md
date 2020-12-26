@@ -6,8 +6,8 @@
 
 #### ⛵Site : 프로그래머스 https://programmers.co.kr/learn/challenges?tab=sql_practice_kit (SQL 고득점 키트)             
 
-|날짜|학습 내용|맞은 개수|비고|
+|날짜|학습 내용|맞은 개수|틀린문제|비고|
 |--------|-------|---------|---------|
-|1226|SELECT|7/7|| 
-|1226|SUM, MAX, MIN|4/4||
-|1227|GROUP BY|2/4|datetime에서 시각을 뽑아내려면 HOUR함수 쓰면 된다. 없는 시각을 만들어내려면 @hour = -1 광역변수 설정해주고, (WHERE @hour := @hour +1) < 24 이런식으로 while문 돌리듯이 쿼리를 짜준다|
+|1226|SELECT|7/7|||
+|1226|SUM, MAX, MIN|4/4|||
+|1227|GROUP BY|2/4|입양 시각 구하기(1), (2)|datetime에서 시각을 뽑아내려면 HOUR함수 쓰면 된다. 없는 시각을 만들어내려면 @hour = -1 광역변수 설정해주고, (WHERE @hour := @hour +1) < 24 이런식으로 while문 돌리듯이 쿼리를 짜준다|
