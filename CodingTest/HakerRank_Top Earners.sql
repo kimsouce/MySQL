@@ -1,4 +1,6 @@
-  
+/*GROUPBY 관련 문제*/
+
+
 /*
 문제:
 We define an employee's total earnings to be their monthly salary*earnings  worked, 
