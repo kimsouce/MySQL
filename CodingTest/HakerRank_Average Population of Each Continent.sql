@@ -1,3 +1,6 @@
+/*GROUP BY 관련 문제*/
+
+
 /*
 문제:
 Given the CITY and COUNTRY tables, query the names of all the continents (COUNTRY.Continent) and their respective average city populations (CITY.Population) 
