@@ -17,4 +17,4 @@
 |1230|JOIN|4/4||
 |1231|STRNG, DATE|5/5||
 
-<center><img src="프로그래머스.jpg" alt="My Image"></center>
+<center><img src="프로그래머스끝.jpg" alt="My Image"></center>
